@@ -1,0 +1,21 @@
+Sacar a pasear un perro:
+1. Encontrar una correa 
+2. Colocar la correa en el collar del perro
+3. Caminar a la puerta 
+4. Abrir la puerta
+5. cruzar la puerta con el perro y la correa
+6. cerrar la puerta
+6. caminar en los alrededores del lugar
+
+
+Preparar un Licuida de frutas tropicales
+1. Encontrar 1 taza de fruta tropical
+2. ubicar la licuadora
+3. colocar 500ml de agua en un recipiente
+4. Encontrar 1/2 taza de azucar
+5. colocar dentro de la licuadora el agua, la fruta y azucar
+6.conectar la licuadora a la corriente
+7. encender la licuadora
+8. presionar el boton de licuar
+9. esperar 60 segundos
+
